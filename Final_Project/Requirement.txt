@@ -1,0 +1,2 @@
+# Aplikasi ini menggunakan Python Standard Library bawaan.
+# Tidak memerlukan instalasi pustaka pihak ketiga (third-party dependencies).
